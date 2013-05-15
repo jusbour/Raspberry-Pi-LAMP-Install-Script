@@ -3,7 +3,9 @@
 
 <h3>Installation Proceedure:</h3>
 
-<code>git clone https://github.com/LikeABoss-001/Raspberry-Pi-LAMP-Install-Script.git
-cd Raspberry-pi-LAMP-Install-Script
-sudo bash install.sh</code>
+1. <code>git clone https://github.com/LikeABoss-001/Raspberry-Pi-LAMP-Install-Script.git</code>
+
+2. <code>cd Raspberry-pi-LAMP-Install-Script</code>
+
+3. <code>sudo bash install.sh</code>
 
