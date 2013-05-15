@@ -3,8 +3,10 @@
 
 <h3>Installation Proceedure:</h3>
 <code>
-git clone <URL>
+git clone https://github.com/LikeABoss-001/Raspberry-Pi-LAMP-Install-Script.git
+
 cd Raspberry-pi-LAMP-Install-Script
+
 sudo bash install.sh
 </code>
 
