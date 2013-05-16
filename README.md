@@ -5,7 +5,7 @@
 
 1. <code>git clone https://github.com/LikeABoss-001/Raspberry-Pi-LAMP-Install-Script.git</code>
 
-2. <code>cd Raspberry-pi-LAMP-Install-Script</code>
+2. <code>cd Raspberry-Pi-LAMP-Install-Script</code>
 
 3. <code>sudo bash install.sh</code>
 
