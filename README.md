@@ -7,5 +7,5 @@
 
 2. <code>cd Raspberry-Pi-LAMP-Install-Script</code>
 
-3. <code>sudo bash install.sh</code>
+3. <code>sudo chmod +x install.sh && ./install.sh</code>
 
