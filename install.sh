@@ -5,6 +5,8 @@
 #[C] 2013 Justin Harbour: See LICENSE.md for details                    #
 #########################################################################
 
+#!/bin/bash
+
 #Prerequisites
 sudo apt-get update
 
